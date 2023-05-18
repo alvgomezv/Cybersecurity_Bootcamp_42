@@ -7,3 +7,21 @@
 [submodule "ft_onion"]
 	path = ft_onion
 	url = git@github.com:alvgomezv/ft_onion.git
+[submodule "coRSAir"]
+	path = coRSAir
+	url = git@github.com:alvgomezv/coRSAir.git
+[submodule "ft_blockchain"]
+	path = ft_blockchain
+	url = git@github.com:alvgomezv/ft_blockchain.git
+[submodule "tsunami"]
+	path = tsunami
+	url = git@github.com:alvgomezv/tsunami.git
+[submodule "stockholm"]
+	path = stockholm
+	url = git@github.com:alvgomezv/stockholm.git
+[submodule "Iron_Dome"]
+	path = Iron_Dome
+	url = git@github.com:alvgomezv/Iron_Dome.git
+[submodule "recovery"]
+	path = recovery
+	url = git@github.com:alvgomezv/recovery.git
