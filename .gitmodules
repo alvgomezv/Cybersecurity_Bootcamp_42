@@ -1,0 +1,9 @@
+[submodule "arachnida"]
+	path = arachnida
+	url = git@github.com:alvgomezv/arachnida.git
+[submodule "ft_otp"]
+	path = ft_otp
+	url = git@github.com:alvgomezv/ft_otp.git
+[submodule "ft_onion"]
+	path = ft_onion
+	url = git@github.com:alvgomezv/ft_onion.git
