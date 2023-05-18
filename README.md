@@ -1,6 +1,6 @@
 # Cybersecurity Bootcamp 42 Repository
 
-![Bootcamp projects](images /bootcamp-projects.png)
+![Bootcamp projects](bootcamp-projects.png)
 
 Welcome to my Cybersecurity Bootcamp repository! This repository hosts multiple projects developed as part of the cybersecurity bootcamp organized by the 42 programming campuses. This bootcamp has been one of the most fulfilling experiences in my learning phase, leading me and my colleagues to acquire digital skills in the field of security, one of the most promising areas in the technology industry.
 
