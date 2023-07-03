@@ -1,6 +1,6 @@
 # Cybersecurity Bootcamp 42 Repository
 
-![Bootcamp projects](bootcamp-projects.png)
+![Bootcamp projects](bootcamp-projects.PNG)
 
 Welcome to my Cybersecurity Bootcamp repository! This repository hosts multiple projects developed as part of the cybersecurity bootcamp organized by the 42 programming campuses. This bootcamp has been one of the most fulfilling experiences in my learning phase, leading me and my colleagues to acquire digital skills in the field of security, one of the most promising areas in the technology industry.
 
@@ -16,7 +16,7 @@ At the bootcamp, we follow the methodology commonly practiced at the 42 programm
 
 ## Projects
 
-This repository contains various projects developed by more than 74 students from the programming campuses and over 130 external participants.During the eight-week training program, participants will enhance their digital skills through technical knowledge in the following areas:
+This repository contains various projects developed by more than 74 students from the programming campuses and over 130 external participants. During the eight-week training program, participants will enhance their digital skills through technical knowledge in the following areas:
 
 - Cryptography
 - Network Security
@@ -26,4 +26,10 @@ This repository contains various projects developed by more than 74 students fro
 - Computer Forensics
 - Malware and Malicious Codes
 - OSINT (Open-Source Intelligence) and Open-Source Investigation
+
+The first week of the bootcamp is used to lear basic Python concepts by completing a "Python Piscine" with the following modules:
+
+- Python Module 00 - Eleven commandments
+- Python Module 01 - Object-oriented programming
+- Python Module 02 - Advanced topics
 
